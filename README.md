@@ -53,6 +53,6 @@ and local elections as well. If the data were to include other characteristics, 
 demographics and geography, the script can be modified to include these characteristics
 and the analysis can be broken down even further.
 
-This script can be further  modified to determine patterns among the characteristics. We could 
-analyze the percentage of voters by county against each candidate. This would allow us to see 
-which candidate was the most popular within a county or geographical area.
+This script can be further modified to determine patterns among the characteristics. By 
+analyzing the percentage of voters by county against each candidate, it would allow visualization 
+into which candidate was the most popular within a county or geographical area.
