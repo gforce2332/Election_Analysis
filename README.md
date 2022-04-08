@@ -44,7 +44,7 @@ The analysis of the election show that:
      - Diana DeGette who received 73.8% of the vote and 272,892 number of votes. 
 
 ## Screenshots
-
+(https://github.com/gforce2332/Election_Analysis/blob/main/Analysis/election_results.png)
 
 ## Summary
 This script can be used not only to audit this election but other congressional,senate and local elections as well.  
