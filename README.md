@@ -24,7 +24,7 @@ Assisted the Colorado Board of Elections in an election audit for the US Congres
 - Software: Python 3.7.6, Visual Studio Code, 1.66.0
 
 ## Results
-The analysis of the election show that:
+The analysis of this election shows that:
 - There were 369,711 votes cast in the election.
 - The number of votes received for each county in the precinct were:
      - Jefferson County received 10.5% of the vote and 38,855 number of votes.
@@ -44,14 +44,15 @@ The analysis of the election show that:
      - Diana DeGette who received 73.8% of the vote and 272,892 number of votes. 
 
 ## Screenshots
-(https://github.com/gforce2332/Election_Analysis/blob/main/Analysis/election_results.png)
+![election_results](https://user-images.githubusercontent.com/98711219/162375190-4b7b98da-f70d-4662-95c4-8b6a01210900.png)
+
 
 ## Summary
-This script can be used not only to audit this election but other congressional,senate and local elections as well.  
-If the data were to include other characteristics, such as demographics
-and geography, the script can be modified to include these characteristics and the analysis 
-can be broken down even further.
+This script can be used not only to audit this election but other congressional, senate 
+and local elections as well. If the data were to include other characteristics, such as 
+demographics and geography, the script can be modified to include these characteristics
+and the analysis can be broken down even further.
 
-This script can be further  modified to determine patterns among the characteristics. We could analyze
- the percentage of voters by county against each candidate. This would allow us to see which
- candidate was the most popular within a county or geographical area.
+This script can be further  modified to determine patterns among the characteristics. We could 
+analyze the percentage of voters by county against each candidate. This would allow us to see 
+which candidate was the most popular within a county or geographical area.
